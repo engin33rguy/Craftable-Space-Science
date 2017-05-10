@@ -10,7 +10,7 @@ function AddLootToEntity(entityType, entityName, itemName, probability, countMin
 	end
 end
 
-AddLootToEntity("unit-spawner","biter-spawner","alien-artifact",1,5,15)
-AddLootToEntity("unit-spawner","spitter-spawner","alien-artifact",1,5,15)
+AddLootToEntity("unit-spawner","biter-spawner","alien-artifact-reborn",1,5,15)
+AddLootToEntity("unit-spawner","spitter-spawner","alien-artifact-reborn",1,5,15)
 
 
