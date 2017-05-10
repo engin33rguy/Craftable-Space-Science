@@ -1,7 +1,7 @@
 data:extend({
   {
     type = "technology",
-    name = "alien-research",
+    name = "alien-research-reborn",
     icon = "__base__/graphics/technology/alien-technology.png", 
     effects =
     {
